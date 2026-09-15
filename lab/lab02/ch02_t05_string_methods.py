@@ -1,2 +1,2 @@
-parr
+parrot = 
 print
