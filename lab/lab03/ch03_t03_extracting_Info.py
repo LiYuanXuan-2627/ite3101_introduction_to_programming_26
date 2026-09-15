@@ -8,3 +8,7 @@ print(now)
 print(now_year)
 print(now_month)
 print(now_day)
+#or
+#print(now.year)
+#print(now.month)
+#print(now.day)
