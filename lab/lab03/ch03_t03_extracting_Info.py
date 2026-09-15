@@ -2,5 +2,5 @@ from datetime import datetime
 
 now = datetime.now()
 now_year = now.year
-now_
+now_mon
 print(now)
