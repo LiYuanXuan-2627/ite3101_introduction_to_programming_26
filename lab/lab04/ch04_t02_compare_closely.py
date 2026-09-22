@@ -6,7 +6,7 @@ print(bool_one)
 # Set this to True if 100 == (2 * 50) or to False otherwise.
 bool_two = 100 ==(2*50)
 bool_two = True
-print(b)
+print(bool_two)
 # Set this to True if 19 <= 19 or to False if it is not.
 bool_three = None
 
