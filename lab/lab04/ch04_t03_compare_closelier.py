@@ -10,7 +10,7 @@ bool_two = (10+17) == 3**16
 bool_two = False
 
 # 1**2 <= -1
-bool_three = 1**2 <= 
+bool_three = 1**2 <= -1
 bool_three = None
 
 # 40 * 4 >= -4
