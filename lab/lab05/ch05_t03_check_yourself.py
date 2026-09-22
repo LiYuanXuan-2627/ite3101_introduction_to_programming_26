@@ -7,4 +7,4 @@ if len(original) > 0:
 else:
     print("empty")
 
-    
+print(original)
