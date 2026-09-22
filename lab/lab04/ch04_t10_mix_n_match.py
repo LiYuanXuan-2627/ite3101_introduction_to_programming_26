@@ -13,7 +13,8 @@ bool_three = (10 % 3) <= (10 % 2)
 bool_three = False
 
 # Make me true!
-bool_four = None
+bool_four = not (10 % 3 <= 10 % 2)
+bool_four = True
 
 # Make me true!
 bool_five = None
