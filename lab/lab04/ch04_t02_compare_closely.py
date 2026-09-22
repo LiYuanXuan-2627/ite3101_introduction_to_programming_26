@@ -5,7 +5,7 @@ bool_one = True  # We did this one for you!
 print(bool_one)
 # Set this to True if 100 == (2 * 50) or to False otherwise.
 bool_two = 100 ==(2*50)
-bool_two = None
+bool_two = True
 
 # Set this to True if 19 <= 19 or to False if it is not.
 bool_three = None
