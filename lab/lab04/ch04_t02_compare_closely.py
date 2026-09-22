@@ -12,7 +12,7 @@ bool_three = 19 <= 19
 bool_three = True
 print(boo;bool_three)
 # Set this to True if -22 >= -18 or to False if it is not.
-bool_four = -22 >=
+bool_four = -22 >= -18
 bool_four = None
 
 # Set this to True if 99 != (98 + 1) or to False otherwise.
