@@ -13,7 +13,7 @@ bool_three = 100 >= (50 ** 2) / 50
 bool_three = True
 
 # Make me false!
-bool_four = 
+bool_four = 305 
 bool_four = None
 
 # Make me true!
