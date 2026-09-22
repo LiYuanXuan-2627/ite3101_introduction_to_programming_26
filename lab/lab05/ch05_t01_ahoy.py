@@ -2,4 +2,4 @@
 
 
 original = input("Enter a word: ")
-pr
+print(original)
