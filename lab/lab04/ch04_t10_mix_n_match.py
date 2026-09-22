@@ -5,7 +5,7 @@ bool_one = (2 <= 2) and "Alpha" == "Bravo"
 bool_one = False # We did this one for you!
 
 # Make me true!
-bool
+bool_two = (3 * 3) == 9 or 5 > 10
 bool_two = True
 
 # Make me false!
