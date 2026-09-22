@@ -1,4 +1,4 @@
-bool_one = None
+bool_one = True and False
 
 bool_two = None
 
