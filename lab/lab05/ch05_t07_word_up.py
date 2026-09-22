@@ -1,5 +1,5 @@
 pyg = 'ay'
-first = word[0]
+x
 original = input('Enter a word:')
 word = original.lower()
 
