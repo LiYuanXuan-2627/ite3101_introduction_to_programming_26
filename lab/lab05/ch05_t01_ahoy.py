@@ -1,4 +1,4 @@
 
 
 
-original = input
+original = input()
