@@ -5,7 +5,7 @@ def black_knight() -> bool:
     if answer == "'Tis but a scratch!":
         return True
     else:
-        return  # Make sure this returns False
+        return False # Make sure this returns False
 
 
 def french_soldier() -> bool:
