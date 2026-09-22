@@ -1,5 +1,5 @@
 
 
 
-original = input("Enter a word: ")
+original = input("Enter a word:")
 print(original)
