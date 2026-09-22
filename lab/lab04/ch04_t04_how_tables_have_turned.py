@@ -10,7 +10,7 @@ bool_two = False
 
 # Make me true!
 bool_three = 100 >= (50 ** 2) / 50
-bool_three = 
+bool_three = True
 
 # Make me false!
 bool_four = None
