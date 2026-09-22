@@ -18,4 +18,5 @@ bool_four = False
 print(bool_four)
 
 # Set this to True if 99 != (98 + 1) or to False otherwise.
+bool
 bool_five = None
