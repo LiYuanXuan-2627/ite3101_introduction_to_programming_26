@@ -17,4 +17,5 @@ bool_four = not (10 % 3 <= 10 % 2)
 bool_four = True
 
 # Make me true!
+bool_five = (10 % 3) > (10 % 2) or not (10 % 3 <= 10 % 2)
 bool_five = None
