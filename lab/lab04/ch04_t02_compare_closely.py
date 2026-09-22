@@ -9,7 +9,8 @@ bool_two = True
 print(bool_two)
 # Set this to True if 19 <= 19 or to False if it is not.
 bool_three = 19 <= 19
-bool_three = None
+bool_three = True
+print(boo;bool_three)
 
 # Set this to True if -22 >= -18 or to False if it is not.
 bool_four = None
