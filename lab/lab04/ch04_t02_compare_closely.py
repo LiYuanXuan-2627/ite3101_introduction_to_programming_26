@@ -8,7 +8,7 @@ bool_two = 100 ==(2*50)
 bool_two = True
 print(bool_two)
 # Set this to True if 19 <= 19 or to False if it is not.
-bool_three = 19
+bool_three = 19 <= 19
 bool_three = None
 
 # Set this to True if -22 >= -18 or to False if it is not.
