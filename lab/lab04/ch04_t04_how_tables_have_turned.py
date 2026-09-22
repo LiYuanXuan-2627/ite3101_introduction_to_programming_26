@@ -17,4 +17,5 @@ bool_four = 255 == 192 + 32
 bool_four = False
 
 # Make me true!
+bool_five = 
 bool_five = None
