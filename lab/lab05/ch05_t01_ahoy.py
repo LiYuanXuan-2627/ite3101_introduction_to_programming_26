@@ -1,4 +1,4 @@
 
 
 
-original = 
+original = input
