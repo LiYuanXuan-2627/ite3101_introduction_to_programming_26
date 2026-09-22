@@ -6,7 +6,7 @@ bool_one = True
 
 # Make me false!
 bool_two = 50 != 5 ** 2
-bool_two = 
+bool_two = False
 
 # Make me true!
 bool_three = None
