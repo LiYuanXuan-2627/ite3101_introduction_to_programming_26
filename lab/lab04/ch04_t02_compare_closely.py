@@ -11,6 +11,7 @@ print(bool_two)
 bool_three = 19 <= 19
 bool_three = True
 print(boo;bool_three)
+
 # Set this to True if -22 >= -18 or to False if it is not.
 bool_four = -22 >= -18
 bool_four = False
