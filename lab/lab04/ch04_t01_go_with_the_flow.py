@@ -12,4 +12,3 @@ def clinic():
 
 
 clinic()
-
