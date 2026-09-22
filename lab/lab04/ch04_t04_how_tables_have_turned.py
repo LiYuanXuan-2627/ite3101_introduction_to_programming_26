@@ -2,6 +2,7 @@
 
 # Make me true!
 bool_one = 3 < 5  # We already did this one for you!
+bool_one = R
 
 # Make me false!
 bool_two = None
