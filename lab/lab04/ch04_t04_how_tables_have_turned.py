@@ -9,8 +9,8 @@ bool_two = 50 != 5 ** 2
 bool_two = False
 
 # Make me true!
-bool_three = 100 >= 1000 * 0
-bool_three = None
+bool_three = 100 >= (50 ** 2)
+bool_three = 
 
 # Make me false!
 bool_four = None
