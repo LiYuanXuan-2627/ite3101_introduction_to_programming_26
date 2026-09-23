@@ -3,6 +3,6 @@
 # explain it soon!
 
 def spam():
-    """"""
+    """Prints 'E"""
 # Define the spam function above this line.
 spam()
