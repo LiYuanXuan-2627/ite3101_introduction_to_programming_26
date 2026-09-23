@@ -8,5 +8,5 @@ if len(original) > 0 and original.isalpha():
 else:
     print("empty")
 
-new_word = word + first + pyd
+new_word = word + first + pyg
 print(new_word)
