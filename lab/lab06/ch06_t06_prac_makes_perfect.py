@@ -1,4 +1,4 @@
 def cube(number:str):
     return number * number
 
-def 
+def by_three
