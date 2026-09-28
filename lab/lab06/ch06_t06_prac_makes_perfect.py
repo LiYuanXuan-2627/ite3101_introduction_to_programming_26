@@ -3,4 +3,4 @@ def cube(number:str):
 
 def by_three(number:str):
     if number % 3 ==0:
-        reture
+        return cube(number)
