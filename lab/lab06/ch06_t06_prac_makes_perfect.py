@@ -1,1 +1,1 @@
-def cube(number:str)
+def cube(number:str):
