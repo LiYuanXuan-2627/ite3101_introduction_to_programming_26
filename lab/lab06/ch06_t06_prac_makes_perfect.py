@@ -1,2 +1,2 @@
 def cube(number:str):
-    return 
+    return number 
