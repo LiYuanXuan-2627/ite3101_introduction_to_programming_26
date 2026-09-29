@@ -27,7 +27,7 @@ def trip_cost(city: str, days: int) -> int:
 
 input_city = input("Enter the city you are traveling to: ")
 input_days = input("Enter the number of days you will be staying: ")
-input_nights
+input_nights = input()
 spending_money = 0
 spending_money += 
 print("Total trip cost: $" + str(trip_cost(city, days) + spending_money))
