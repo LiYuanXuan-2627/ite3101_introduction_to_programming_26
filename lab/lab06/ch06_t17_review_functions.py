@@ -7,5 +7,3 @@ elif shut_down(s) = "no":
     return("Shoutdown aborted") 
 else:
     return("Sorry")
-
- 
