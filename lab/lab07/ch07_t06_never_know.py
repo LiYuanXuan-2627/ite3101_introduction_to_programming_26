@@ -25,7 +25,9 @@ def rental_car_cost(days: int) -> int:
 def trip_cost(city: str, days: int) -> int:
     return rental_car_cost(days) + hotel_cost(days - 1) + plane_ride_cost(city)
 
-inp
+input_city = input("Enter the city you are traveling to: ")
+input_days = input("Enter the number of days you will be staying: ")
+
 spending_money = 0
 spending_money += 
 print("Total trip cost: $" + str(trip_cost(city, days) + spending_money))
