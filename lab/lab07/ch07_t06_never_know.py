@@ -27,4 +27,4 @@ def trip_cost(city: str, days: int) -> int:
 
 spending_money = 0
 spending_money += (input(nights), input(days), input(city))
-pr
+print
