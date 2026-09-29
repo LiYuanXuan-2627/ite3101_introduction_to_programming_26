@@ -2,4 +2,4 @@
 # and a string on separate lines below.
 print(type(50))
 print(type(8.5))
-print(type())
+print(type('Hello World'))
