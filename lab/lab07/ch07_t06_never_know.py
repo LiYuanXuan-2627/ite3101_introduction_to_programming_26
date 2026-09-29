@@ -26,5 +26,5 @@ def trip_cost(city: str, days: int) -> int:
     return rental_car_cost(days) + hotel_cost(days - 1) + plane_ride_cost(city)
 
 spending_money = 0
-spending_money += 
+spending_money += int(input("How much spending money do you want to bring? "))
 print("Total trip cost: $" + str(trip_cost(city, days) + spending_money))
