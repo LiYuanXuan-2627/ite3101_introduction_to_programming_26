@@ -1,3 +1,3 @@
 from math import sqrt
 
-Pr
+print(13689)
