@@ -1,2 +1,2 @@
 def answer():
-  return
+  print(4
