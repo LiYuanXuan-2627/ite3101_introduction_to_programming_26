@@ -6,6 +6,6 @@ if shut_down(s) = "yes":
 elif shut_down(s) = "no":
     return("Shoutdown aborted") 
 else:
-    
+    return
 
  
