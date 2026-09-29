@@ -2,4 +2,4 @@
 
 maximum = (12, 10.1, 3)
 
-print(max(float)(maximum))
+print(max(float(maximum)))
