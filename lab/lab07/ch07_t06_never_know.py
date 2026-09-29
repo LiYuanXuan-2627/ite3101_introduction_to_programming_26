@@ -29,5 +29,5 @@ input_city = input("Enter the city you are traveling to: ")
 input_days = input("Enter the number of days you will be staying: ")
 input_nights = input()
 spending_money = 0
-spending_money += 
+spending_money += input_city + input_days + input_nights
 print("Total trip cost: $" + str(trip_cost(city, days) + spending_money))
