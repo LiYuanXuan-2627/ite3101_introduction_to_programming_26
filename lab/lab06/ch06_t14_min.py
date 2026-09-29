@@ -2,4 +2,4 @@
 
 minimum = None
 
-print(minimum)
+printmin(minimum)
