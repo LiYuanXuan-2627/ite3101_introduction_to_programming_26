@@ -5,6 +5,7 @@ if shut_down(s) = "yes":
     return("shutting down")
 elif shut_down(s) = "no":
     return("Shoutdown aborted") 
-else
+else:
+    
 
  
