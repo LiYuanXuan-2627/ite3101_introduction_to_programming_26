@@ -2,5 +2,5 @@ start_list = [5, 3, 1, 2, 4]
 square_list = []
 
 # Your code here!
-for number in statrt_list :
+for number in start_list :
     print(square_list)
