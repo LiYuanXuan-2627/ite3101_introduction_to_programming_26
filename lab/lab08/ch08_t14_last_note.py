@@ -7,7 +7,7 @@ inventory = {
 
 # Adding a key 'burlap bag' and assigning a list to it
 inventory['burlap bag'] = ['apple', 'small ruby', 'three-toed sloth']
-inventory['pocket'] = ['seashell', 'srange berry']
+inventory['pocket'] = ['seashell', 'strange berry']
 # Sorting the list found under the key 'pouch'
 inventory['pouch'].sort()
 
