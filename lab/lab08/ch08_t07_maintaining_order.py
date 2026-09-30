@@ -1,4 +1,4 @@
-animals = ["aardvark", "badger", "duck", "emu", "fennec fox"]
+animals = ["aardvark", "badger", "duck", "emu", "fennec fox", ]
 duck_index = animals[1:3]  # Use index() to find "duck"
 # Your code here!
 
