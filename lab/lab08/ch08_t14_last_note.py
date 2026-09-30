@@ -10,5 +10,6 @@ inventory['burlap bag'] = ['apple', 'small ruby', 'three-toed sloth']
 inventory['pocket'] = ['seashell', 'strange berry','lint']
 # Sorting the list found under the key 'pouch'
 inventory['pouch'].sort()
+inventory['']
 
 # Your code here
