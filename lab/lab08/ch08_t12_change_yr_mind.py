@@ -7,7 +7,7 @@ zoo_animals = {'Unicorn': 'Cotton Candy House',
 # A dictionary (or list) declaration may break across multiple lines
 
 # Removing the 'Unicorn' entry. (Unicorns are incredibly expensive.)
-del zoo_animals['Unicorn']
+del zoo_animals['Unicorn', 'Bengal Tiger', ]
 
 # Your code here!
 
