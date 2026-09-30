@@ -11,6 +11,6 @@ del zoo_animals['Unicorn']
 del zoo_animals['Bengal Tiger']
 del zoo_animals['Sloth']
 # Your code here!
-zoo_animals['Rockhopper Penguin'] = 2
+zoo_animals['Rockhopper Penguin'] = 
 
 print(zoo_animals)
