@@ -14,4 +14,4 @@ inventory['backpack'].sort()
 
 # Your code here
 inventory['backpack'].remove('dagger')
-inventory['gold'] = 50
+inventory['gold'] = 
