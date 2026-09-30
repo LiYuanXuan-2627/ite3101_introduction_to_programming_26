@@ -4,3 +4,4 @@ square_list = []
 
 
 print(square_list ** 2)
+square_list.sort()
