@@ -1,6 +1,6 @@
 animals = ["aardvark", "badger", "duck", "emu", "fennec fox"]
 duck_index = animals[3:5]  # Use index() to find "duck"
-duck_index
+duck_index = 
 # Your code here!
 animals.insert(2, "cobra")
 
