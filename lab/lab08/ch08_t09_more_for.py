@@ -3,5 +3,5 @@ square_list = []
 
 # Your code here!
 start_list.append(number(x ** 2))
-for start_list 
+for start_list in square_list:
     print(square_list)
