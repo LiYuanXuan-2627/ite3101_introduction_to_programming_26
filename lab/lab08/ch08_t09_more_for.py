@@ -3,5 +3,5 @@ square_list = []
 
 # Your code here!
 for number in start_list:
-
+start_list()
     print(square_list)
