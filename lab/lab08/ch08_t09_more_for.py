@@ -3,7 +3,7 @@ start_list.append(x**2)
 square_list = []
 
 # Your code here!
-for number in start_list:
+for start_list in square_list:
 
 
 print(square_list)
