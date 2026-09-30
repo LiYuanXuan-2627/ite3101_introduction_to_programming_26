@@ -3,4 +3,4 @@ square_list = []
 # Your code here!
 
 
-print(square_list)
+print(square_list ** 2)
