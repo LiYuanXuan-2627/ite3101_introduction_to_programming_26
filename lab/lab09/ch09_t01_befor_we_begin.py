@@ -1,2 +1,3 @@
 names = ["Adam", "Alex", "Mariah", "Martine", "Columbus"]
-for lists
+for list in names
+print(names)
