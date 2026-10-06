@@ -15,7 +15,7 @@ prices = {
 }
 
 # Write your code below!
-def compute_bill(banana:list[]):
+def compute_bill(banana:list[int]):
     total = 0
     for item in banana:
         total += banana
