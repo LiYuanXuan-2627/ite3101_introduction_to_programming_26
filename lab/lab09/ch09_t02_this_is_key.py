@@ -6,5 +6,5 @@ webster = {
 }
 
 # Add your code below!
-for name in webster:
-    print()
+for key in webster:
+    print(webster[key])
