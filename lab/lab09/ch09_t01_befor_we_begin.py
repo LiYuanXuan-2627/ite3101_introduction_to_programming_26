@@ -1,3 +1,3 @@
 names = ["Adam", "Alex", "Mariah", "Martine", "Columbus"]
-for list in names
+for list in names:
 print(names)
