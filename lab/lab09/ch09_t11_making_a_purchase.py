@@ -17,6 +17,6 @@ prices = {
 # Write your code below!
 def compute_bill(banana:list[str]):
     total = 0
-    for item in banana:
+    for item in  total:
         total += banana
     return total
