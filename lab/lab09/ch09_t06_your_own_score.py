@@ -1,1 +1,3 @@
-prices 
+prices = {
+    
+}
