@@ -6,4 +6,4 @@ def fizz_count(x:list[str]):
             count += 1
     return count
 
-print(fizz_count("fizz", "cat", ))
+print(fizz_count("fizz", "cat", :fizz))
