@@ -12,4 +12,4 @@ stock = {
 }
 
 for key in prices:
-    print("banana: %s" % prices[key])
+    print("Prices: %s" % prices[key])
