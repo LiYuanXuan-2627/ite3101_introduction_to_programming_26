@@ -5,4 +5,4 @@ if count < 5:
 
 while count < 5:
     print("Hello, I am a while and count is", count)
-    count += 9
+    count += 1
