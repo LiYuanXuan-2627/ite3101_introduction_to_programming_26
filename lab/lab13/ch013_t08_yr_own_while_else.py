@@ -8,4 +8,4 @@ guesses_left = 3
 while guesses_left > 0:
     guess = int(input("Guess a number between 1 and 10"))
 
-if gu
+if guess == random_number
