@@ -1,8 +1,9 @@
 from typing import List
 
 
-def list_function(x: List[int]) -> Listint:
-    return x[1]
+def list_function(x: List[int]) -> List[int]:
+    x[1] = x[1] + 3
+    return x
 
 
 n = [3, 5, 7]
