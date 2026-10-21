@@ -7,3 +7,4 @@ word = "eggs!"
 
 # Your code here!
 for c in world:
+    print(c)
