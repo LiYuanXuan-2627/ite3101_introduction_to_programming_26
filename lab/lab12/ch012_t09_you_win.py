@@ -30,4 +30,4 @@ guess_row = int(input("Guess Row: "))
 guess_col = int(input("Guess Col: "))
 
 # Write your code below!
-if guess_row ==
+if guess_row == ship
