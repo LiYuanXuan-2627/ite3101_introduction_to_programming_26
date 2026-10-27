@@ -12,4 +12,4 @@ def print_board(board_in: List[List[str]]) -> None:
         print(" ".join(row))
 
 # Add your code below!
-def print_board(board_in)
+def print_board(board_in: list[list])
