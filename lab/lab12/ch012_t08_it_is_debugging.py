@@ -28,4 +28,4 @@ ship_col = random_col(board)
 guess_row = int(input("Guess Row: "))
 guess_col = int(input("Guess Col: "))
 
-print
+print(ship_row)
