@@ -1,3 +1,3 @@
 def censor(text, word):
    words = text.split()
-   censor
+   censor_word = 
