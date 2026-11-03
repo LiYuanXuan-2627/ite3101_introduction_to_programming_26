@@ -3,4 +3,4 @@ def censor(text, word):
    censored_words = []
 
    for w in words:
-    
+    if w == w
