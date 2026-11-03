@@ -3,7 +3,7 @@ def censor(text, word):
    censored_words = []
 
  for w in words:
-    if w == word:
+     if w == word:
         censored_words.append("*" * len(word))
     else:
         cesored_words.append(w)
