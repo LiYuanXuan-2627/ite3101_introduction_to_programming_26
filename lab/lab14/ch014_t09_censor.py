@@ -6,4 +6,4 @@ def censor(text, word):
     if w == word:
         censored_words.append("*" * len(word))
     else:
-        cesored_words
+        cesored_words.append(w)
