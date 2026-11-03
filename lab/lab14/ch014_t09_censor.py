@@ -1,3 +1,3 @@
 def censor(text, word):
-    censored_text = text.replace(word, 's' * len(word))
+    censored_text = text.replace(word, '*' * len(word))
     return censored_text
