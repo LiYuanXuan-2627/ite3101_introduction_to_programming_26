@@ -1,1 +1,1 @@
-def faction
+def factorial
