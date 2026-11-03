@@ -1,1 +1,1 @@
-dig
+digit_sum
