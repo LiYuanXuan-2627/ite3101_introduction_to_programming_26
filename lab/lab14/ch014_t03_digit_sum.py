@@ -1,1 +1,1 @@
-digit_sum
+digit_sum(n)
